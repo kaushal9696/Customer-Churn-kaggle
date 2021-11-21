@@ -58,5 +58,5 @@ Start the server
 
 ## Screenshots
 
-![Imbalance](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Imbalance](https://github.com/kaushal9696/Customer-Churn-kaggle/blob/main/Imbalance.png)
 
