@@ -34,13 +34,13 @@ pip install -r requirements.txt
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/kaushal9696/Customer-Churn-kaggle
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Customer-Churn-kaggle
 ```
 
 Install dependencies
